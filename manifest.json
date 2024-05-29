@@ -2,7 +2,7 @@
   "name": "CSE110-Lab8",
   "short_name": "zilin",
   "description": "lab8",
-  "start_url": "./index.html",
+  "start_url": "",
   "display": "standalone",
   "background_color": "black",
   "theme_color": "dark",
