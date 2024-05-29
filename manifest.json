@@ -1,17 +1,16 @@
 {
-    "name": "CSE110-Lab8",
-    "short_name": "zilin",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "black",
-    "theme_color": "dark",
-    "icons": [
-      {
-        "src": "/assets/images/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "CSE110-Lab8",
+  "short_name": "zilin",
+  "description": "lab8",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "theme_color": "dark",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
