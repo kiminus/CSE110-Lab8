@@ -2,13 +2,13 @@
   "name": "CSE110-Lab8",
   "short_name": "zilin",
   "description": "lab8",
-  "start_url": "https://kiminus.github.io",
+  "start_url": "",
   "display": "standalone",
   "background_color": "black",
   "theme_color": "dark",
   "icons": [
     {
-      "src": "/assets/images/icons/icon-192x192.png",
+      "src": "https://kiminus.github.io/CSE110-Lab8/assets/images/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
